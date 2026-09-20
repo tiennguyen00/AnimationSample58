@@ -90,6 +90,10 @@
 		{
 			"Name": "GameplayInteractions",
 			"Enabled": true
+		},
+		{
+			"Name": "AIAssistant",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
